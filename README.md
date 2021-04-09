@@ -4,4 +4,8 @@ Almost ... As depicted in GIT demo
 __CHAPTER:__ *Pull with Rebase*
 ## Purpuse RECONCILING GitHub and LOCAL
 This is just a readMe ! 
-# Updated  README.md with RECONCILING version from both  
+Updated  README.md with RECONCILING version from both  
+
+## Purpuse Git Local and GitHub Remote working together
+This is the purpuse of this file now:
+Provide LOCAL vs REMOTE work : How to ! 
